@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovieStoreMvc",
+    "\\MovieStoreMvc\\Views",
+    "\\MovieStoreMvc\\Views\\Genre",
+    "\\MovieStoreMvc\\Views\\Home",
+    "\\MovieStoreMvc\\Views\\Shared",
+    "\\MovieStoreMvc\\wwwroot"
+  ],
+  "SelectedNode": "\\MovieStoreMvc\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
